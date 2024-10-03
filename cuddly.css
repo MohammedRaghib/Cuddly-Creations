@@ -46,6 +46,9 @@ article h1 {
 }
 
 @media (max-width:600px) {
+    .logo {
+        margin: 0px;
+    }
 
     .nav_link {
         margin: 5px;
@@ -74,6 +77,9 @@ article h1 {
 }
 
 @media (max-width:786px) {
+    .logo {
+        margin: 0px;
+    }
 
     .nav_link {
         margin: 5px;
