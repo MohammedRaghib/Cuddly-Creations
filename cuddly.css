@@ -31,12 +31,12 @@ main{
 }
 article{
     padding-left: 20px;
-    color: rgb(169, 0, 161);
+    /* color: rgb(169, 0, 161); */
 }
 article h1{
     font-size: 40px;
 }
-@media (max-width:768px){
+@media (max-width:600px){
     article{
         padding-left: 40px;
     }
