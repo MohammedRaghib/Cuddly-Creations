@@ -37,6 +37,13 @@ article h1{
     font-size: 40px;
 }
 @media (max-width:600px){
+    #products{
+        justify-content: center;
+    }
+    #contact{
+        visibility: visible;
+        z-index: 1;
+    }
     article{
         padding-left: 40px;
     }
