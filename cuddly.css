@@ -58,6 +58,13 @@ article h1 {
         margin: 5px;
     }
 
+    #home {
+        background-color: rgb(169, 0, 161);
+        color: rgb(201, 236, 250);
+        padding: 20px;
+        border-radius: 10px;
+    }
+
     #products {
         justify-content: center;
     }
@@ -91,6 +98,13 @@ article h1 {
 
     .nav_link {
         margin: 5px;
+    }
+
+    #home {
+        background-color: rgb(169, 0, 161);
+        color: rgb(201, 236, 250);
+        padding: 20px;
+        border-radius: 10px;
     }
 
     #products {
