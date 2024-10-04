@@ -46,10 +46,6 @@ article h1 {
 }
 
 @media (max-width:600px) {
-    .header {
-        gap: 10px;
-    }
-
     .nav_bar {
         overflow-x: hidden;
     }
@@ -85,10 +81,6 @@ article h1 {
 }
 
 @media (max-width:786px) {
-    .header {
-        gap: 10px;
-    }
-
     .nav_bar {
         overflow-x: hidden;
     }
