@@ -46,10 +46,6 @@ article h1 {
 }
 
 @media (max-width:600px) {
-    .nav_bar {
-        overflow-x: hidden;
-    }
-
     .logo {
         margin: 0px;
     }
@@ -88,10 +84,6 @@ article h1 {
 }
 
 @media (max-width:786px) {
-    .nav_bar {
-        overflow-x: hidden;
-    }
-
     .logo {
         margin: 0px;
     }
